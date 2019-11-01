@@ -1,4 +1,4 @@
-# Dynamic ORM with Inheritance
+# Dynami ORM with Inheritance
 
 ## Objectives
 
