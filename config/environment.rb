@@ -1,4 +1,4 @@
-require 'sqlite3'
+filter_parameter_logginglrequire 'sqlite3'
 
 
 DB = {:conn => SQLite3::Database.new("db/songs.db")}
